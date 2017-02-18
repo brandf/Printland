@@ -37,6 +37,7 @@ Printland games are what you actually play. A game depends on one or more module
 
 ### Game Index
 (insert link) Treasurehunt
+(insert link) RobotEscape
 
 ### Module Index
 (insert link) Core
